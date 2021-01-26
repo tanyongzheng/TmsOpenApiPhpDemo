@@ -63,6 +63,7 @@ function CreateOrder(){
   "IsSignatureRequired": 0,
   "IsReject": 0,
   "IsBatery": 0,
+  "OverseaWarehouseCode":"LAX",
   "OrderPackages": [
     {
       "Length": 2,
