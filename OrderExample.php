@@ -64,6 +64,8 @@ function CreateOrder(){
   "IsReject": 0,
   "IsBatery": 0,
   "OverseaWarehouseCode":"LAX",
+  "ToDocumentType":"CPF",
+  "DocumentNumber":"00123456001",
   "OrderPackages": [
     {
       "Length": 2,
